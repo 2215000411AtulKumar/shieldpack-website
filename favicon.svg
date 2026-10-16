@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="100%" height="100%">
+  <!-- Left Blue Shield Border -->
+  <path d="M 70 12 L 20 32 V 76 C 20 110 50 138 70 148 L 70 134 C 58 126 34 104 34 76 V 42 L 70 27 Z" fill="#0c2340"/>
+  
+  <!-- Right Orange Shield Border -->
+  <path d="M 70 12 L 120 32 V 76 C 120 110 90 138 70 148 L 70 134 C 82 126 106 104 106 76 V 42 L 70 27 Z" fill="#f26522"/>
+
+  <!-- Center Moving Box -->
+  <!-- Box Top Face -->
+  <polygon points="70,44 98,58 70,72 42,58" fill="#f26522" stroke="#0c2340" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Tape Strip on Top Face -->
+  <polygon points="65,47 75,52 75,69 65,64" fill="#0c2340"/>
+
+  <!-- Box Right Face -->
+  <polygon points="70,72 98,58 98,96 70,110" fill="#f26522" stroke="#0c2340" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Tape Flap on Right Face -->
+  <polygon points="78,68 86,64 86,76 82,78 78,74" fill="#0c2340"/>
+
+  <!-- Box Left Face -->
+  <polygon points="42,58 70,72 70,110 42,96" fill="#ffffff" stroke="#0c2340" stroke-width="4" stroke-linejoin="round"/>
+
+  <!-- Arrow entering the box from left -->
+  <polygon points="6,74 42,74 42,65 60,80 42,95 42,86 6,86" fill="#0c2340"/>
+</svg>
